@@ -1,3 +1,8 @@
+The RoboCup Soccer Simulator is a research and educational tool for multiagent systems and artificial intelligence.
+RoboCup Soccer Server Simulator :  https://github.com/rcsoccersim/rcssserver
+RoboCup Soccer Simulator Monitor : https://github.com/rcsoccersim/rcssmonitor
+
+
 # wrighteaglebase
 
 [![Build Status](https://travis-ci.org/wrighteagle2d/wrighteaglebase.svg?branch=master)](https://travis-ci.org/wrighteagle2d/wrighteaglebase)  
